@@ -1,16 +1,26 @@
-# subs
+# カプセルトイ予算管理アプリ
 
-A new Flutter project.
+## 概要
+カプセルトイなど「毎回決まった金額の支出」を管理することに特化したシンプルな予算管理アプリです。
+カプセルトイ用途を想定していますが、日々の固定支出などさまざまな用途にも利用できます。
 
-## Getting Started
+## 機能
+- 固定金額の支出を簡単に記録
+- 合計支出をひと目で確認
+- 予算を設定
+- 固定金額のカスタマイズ
 
-This project is a starting point for a Flutter application.
+## 使い方
+1. リポジトリをクローン
+2. アプリを起動
 
-A few resources to get you started if this is your first Flutter project:
+## 使用技術
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 工夫した点
+固定金額の支出を素早く記録できるよう、入力の手間を最小限に抑えたUI設計にしました。
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 今後の改善予定
+- カレンダー機能の追加
+- テーマカラー変更機能
